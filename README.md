@@ -100,10 +100,10 @@ $db->insert('users', $data);
 <br>
 
 ## Hasil program - Form input user
-![Image](img/form.png)
+![Image](https://github.com/Fathir4118/Lab11web/blob/main/img/IMG_20260108_160354.png)
 
 ## Hasil tabel database
-![Image](img/database.png)
+![Image](https://github.com/Fathir4118/Lab11web/blob/main/img/IMG_20260108_160444.png)
 
 <br>
 <br>
