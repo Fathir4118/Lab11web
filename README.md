@@ -108,6 +108,14 @@ $db->insert('users', $data);
 <br>
 <br>
 
+# Tambahan
+## Hasil dari index artikel
+![Image](img/artikel.png)
+## Hasil dari user login
+![Image](img/login.png)
+## Hasil dari user profile
+![Image](img/profile.png)
+
 ## Kesimpulan
 Pada praktikum ini saya berhasil:
 - Membuat struktur folder modular
@@ -115,4 +123,4 @@ Pada praktikum ini saya berhasil:
 - Membuat form dinamis menggunakan class
 - Menghubungkan program ke database
 - Menyimpan data form ke tabel mysql
-- Framework sederhana ini memberikan wawasan bagaimana konsep MVC dan modular bisa diterapkan untuk project yang lebih besar.
+- Framework sederhana ini memberikan wawasan bagaimana konsep MVC dan modular bisa diterapkan untuk project yang lebih besar. 
